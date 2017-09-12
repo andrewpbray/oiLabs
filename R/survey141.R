@@ -1,7 +1,6 @@
 #' Cleaned Student Survey Data
 #'
-#' Survey results from Reed Math 141 students, Fall 2017. Each row
-#' represents a single respondent. The data set has been wrangled to make
+#' Survey data, each row represents a single respondent. The data set has been wrangled to make
 #' generating plots easier.
 #'
 #' @format A tbl_df with 45 rows and 34 variables:

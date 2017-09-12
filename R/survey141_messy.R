@@ -1,7 +1,6 @@
 #' Messy Student Survey Data
 #'
-#' Survey results from Reed Math 141 students, Fall 2017. Each row
-#' represents a single respondent.
+#' Survey results, Each row represents a single respondent.
 #'
 #' @format A tbl_df with 45 rows and 34 variables:
 #' \describe{

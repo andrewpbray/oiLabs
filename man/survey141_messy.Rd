@@ -45,7 +45,6 @@
 survey141_messy
 }
 \description{
-Survey results from Reed Math 141 students, Fall 2017. Each row
-represents a single respondent.
+Survey results, Each row represents a single respondent.
 }
 \keyword{datasets}
